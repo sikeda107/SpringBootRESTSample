@@ -34,5 +34,4 @@ curl -XGET "http://localhost:8080/greeting"
 curl -XGET "http://localhost:8080/greeting?name=User"
 ```
 
-
-<img src="https://gyazo.com/d8fd78d8fcb429890f2d798a48cf258c">
+![Spring Initializer](https://gyazo.com/d8fd78d8fcb429890f2d798a48cf258c/raw)
